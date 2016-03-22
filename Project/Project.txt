@@ -1,0 +1,9 @@
+Folder named 'EC2 cloud scripts' contain copies of scripts written on the server. 
+
+
+EC2 cloud scripts can be found using these URL links:
+
+http://project.coen396chetan.info/index.php?dist=245
+http://project.coen396chetan.info/graph.php
+http://project.coen396chetan.info/distance.php
+
